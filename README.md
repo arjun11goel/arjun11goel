@@ -1,10 +1,9 @@
 <div align="center">
 
 ## Hi, I'm Arjun Goel 👋
-#### MCA’27@VIT Vellore | Data Analytics & Machine Learning
+#### MCA'27 @ VIT Vellore | AI Engineer | Generative AI | Machine Learning
 
-Transforming raw data into actionable insights through analytics, visualization, and machine learning.
-
+AI Engineer focused on building intelligent, real-world systems with Generative AI, LLMs, RAG, AI agents, machine learning, and computer vision.
 <br>
 
 <a href="https://www.linkedin.com/in/arjun11goel">
@@ -25,51 +24,72 @@ Transforming raw data into actionable insights through analytics, visualization,
 
 ## About Me
 
-Currently pursuing MCA at VIT Vellore, I am building a strong foundation in Data Analytics, Machine Learning, Software Development, and core Computer Science concepts. My work primarily involves SQL, Python, Java, ML, Power BI, data visualization, and analytical problem-solving, with a focus on applying technology to real-world challenges.
+I'm an MCA'27 student at VIT Vellore building toward a career in AI Engineering, with a foundation in Python, SQL, Machine Learning, and software development. My journey has evolved from working with data and predictive models to designing intelligent systems that combine machine learning with modern Generative AI technologies.
 
-Through hands-on projects, I have worked on revenue and retention analytics, customer behavior analysis, business intelligence reporting, predictive modeling, and machine learning applications using real-world business datasets. These experiences have strengthened my ability to work across the complete data lifecycle from data preparation and analysis to visualization, model development, and business interpretation.
+Currently, I focus on building practical AI applications involving Large Language Models, RAG, AI agents, vector databases, multimodal AI, and computer vision. My projects include RAG-based assistants, agentic workflows, predictive ML systems, and VisionGuide AI — a multimodal system for environmental understanding and accessibility. I enjoy going beyond simple model or API integration by working on retrieval, structured outputs, evaluation, reasoning workflows, and backend systems.
 
-I am particularly interested in how data, technology, and business strategy come together to drive growth, improve operational efficiency, and support better decision-making. Beyond analytics, I have a strong interest in machine learning, artificial intelligence, and building technology-driven solutions that create real value.
+I've earned credentials including Microsoft Certified: Azure AI Fundamentals and Oracle Agentic AI Foundations Associate, while continuing to strengthen my foundations in algorithms, software engineering, and AI system design. I'm particularly interested in Generative AI, Agentic AI, multimodal systems, and reliable AI engineering, and I'm looking to apply these skills to meaningful real-world problems.
 
 ## Tech Stack
 
-#### Programming Languages
+### Languages
+
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
-#### Databases
+### Generative AI & LLMs
+
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models"/>
+  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge&logo=databricks&logoColor=white" alt="Retrieval Augmented Generation"/>
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logo=google&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI_Evaluation-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white" alt="AI Evaluation"/>
+  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol"/>
 </p>
 
-#### Data Analytics & Visualization
+### AI & Machine Learning
+
 <p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-#### Python Libraries
+### Frameworks & APIs
+
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
 </p>
 
-#### Developer Tools
+### Vector Databases & Data
+
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
+### Cloud & Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+<!--
 ---
 
 ## Data Analytics Projects
@@ -146,13 +166,13 @@ Developed a machine learning solution for procurement analytics that predicts fr
 - Delivered predictions through an interactive **Streamlit web application**.
  
 [View Repository —>](https://github.com/arjun11goel/vendor-invoice-intelligence-portal)
-
+-->
 ---
 ## Let's Connect
 
 I'm always open to connecting with students, professionals, recruiters, and fellow tech enthusiasts.
 
-Whether you'd like to discuss Data Analytics, Machine Learning, projects, internships, or collaboration opportunities - feel free to reach out!
+Whether you'd like to discuss AI Engineering, Machine Learning, projects, internships, or collaboration opportunities - feel free to reach out!
 
 
 📧 **Email:** [arjun11goel@gmail.com](mailto:arjun11goel@gmail.com)
