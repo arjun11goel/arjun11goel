@@ -26,9 +26,10 @@ AI Engineer focused on building intelligent, real-world systems with Generative 
 
 I'm an MCA'27 student at VIT Vellore building toward a career in AI Engineering, with a foundation in Python, SQL, Machine Learning, and software development. My journey has evolved from working with data and predictive models to designing intelligent systems that combine machine learning with modern Generative AI technologies.
 
-Currently, I focus on building practical AI applications involving Large Language Models, RAG, AI agents, vector databases, multimodal AI, and computer vision. My projects include RAG-based assistants, agentic workflows, predictive ML systems, and VisionGuide AI — a multimodal system for environmental understanding and accessibility. I enjoy going beyond simple model or API integration by working on retrieval, structured outputs, evaluation, reasoning workflows, and backend systems.
+I build projects across **LLMs, RAG, agentic workflows, multimodal AI, computer vision, and predictive ML**. My work includes an **HR Policy Assistant** that combines document retrieval with grounded conversational responses, a **Customer Support Agent** for email understanding, knowledge retrieval, response drafting, and follow-up workflows, and **MemoryMind**, a meeting intelligence system that turns conversations into summaries, decisions, action items, and trackable follow-ups. I’m also developing **VisionGuide AI**, a multimodal computer-vision system for environmental understanding and accessibility, alongside ML-based prediction and recommendation systems.
 
-I've earned credentials including Microsoft Certified: Azure AI Fundamentals and Oracle Agentic AI Foundations Associate, while continuing to strengthen my foundations in algorithms, software engineering, and AI system design. I'm particularly interested in Generative AI, Agentic AI, multimodal systems, and reliable AI engineering, and I'm looking to apply these skills to meaningful real-world problems.
+I’ve earned credentials including **Microsoft Certified: Azure AI Fundamentals** and **Oracle Agentic AI Foundations Associate**, while continuing to strengthen my foundations in algorithms, software engineering, and AI system design. I'm particularly interested in **Generative AI, Agentic AI, multimodal systems, and reliable AI engineering**, and I'm looking to apply these skills to meaningful real-world problems.
+
 
 ## Tech Stack
 
