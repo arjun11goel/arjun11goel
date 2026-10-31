@@ -1,13 +1,16 @@
 <div align="center">
 
 ## Hi, I'm Arjun Goel 👋
-#### MCA'27 @ VIT Vellore | AI Engineer | Generative AI | Machine Learning
+#### MCA'27 @ VIT Vellore
 
-AI Engineer focused on building intelligent, real-world systems with Generative AI, LLMs, RAG, AI agents, machine learning, and computer vision.
+AI Engineer building intelligent, real-world systems across Generative AI, LLMs, RAG, AI agents, machine learning, and backend development.
 <br>
 
-<a href="https://www.linkedin.com/in/arjun11goel">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/arjun11goel/" style="display:inline-block;text-decoration:none;">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=data:image/png%3Bbase64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM%2FrhtAAABqklEQVR42u3Yv2oVQRTH8c%2FVxIhCEDRG0EorCwVRFAWxkYhPYKGVpZ1Y%2BAA2PojPYBGsRBEMamEVMAEbNSagQcx%2FPTYbvFx29hrx7s6V%2FcHAcs5Z9svsmTNnphMRCh3GZ3loEgvQ6QLMUrtwKGO%2BiaGYwaw10sd%2FElewiml8rJ0wIlLjbkRsxm99iYipiviBjFQOnsZr7O6xL%2BAEvjedg1MlcNv16WwOi2Sj4p2NHAAfY63EPo83OQC%2Bw21867K9xw2s1wnYr1BP4GKxKF5gpe4qk%2F1OMlLDN8ZxCccxikW8LNLorwv1wSjXXE%2FcnUTctYjYExEPI2I5ETMTERf6FepB7cV78QT3ixks0zk8w9UmmoUHuPyHKfYI%2B%2BoGPLXD7vlmU%2B3WOl5hpk%2F9vN4E4DSOFbl2vljFbxOxZ%2BoG3MQtLHXZPuBeIv5oimVQgE%2BLeter59gqsY9if52Aswn7Cj4lfGN1Ai5X%2BFZ3km6DAtyq8P34r051LWAL2AK2gA0dmjo4UGL%2F2bNLjCWazbWKHWM8cWvxFTF0p7qhyMH2Cvhf%2FeLJjLiObD%2F8An2nWWp%2FYPgsAAAAAElFTkSuQmCC"
+    alt="LinkedIn - Connect"
+  />
 </a>
 
 <a href="mailto:arjun11goel@gmail.com">
@@ -18,17 +21,22 @@ AI Engineer focused on building intelligent, real-world systems with Generative 
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<a href="https://arjun11goel.vercel.app">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-16A34A?style=for-the-badge&logo=data:image%2Fpng%3Bbase64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAFsklEQVR42uVYT2gTTRSfmZ1NusmahjRpWooEijetsYdWQTx5sYje9KKIIPRUUASP9lBPpZfeKvQU7wUreO2hB4uoeBHxYAtCkbrZ2M02qWl2duY7PHlOd7ex34fg4ZtDyO7Mvj%2B%2F997vvV2qlCJ%2FYzHylxaP31JKhWHY4xnDMCil8fthGCql9C2lFGOMsQT36B%2BBGoQkWkMIkVLGdfPI85TSRqOxuroahmGiIKXU9evXy%2BUyOod%2FNjY21tbW3r5922w2KaXDw8MXLly4cuXKqVOnIkj8FIRLCKGUWltb6%2B3fixcv8LCUUinlOM6NGzcSD9u2%2FeTJEwgfHIaVEGPP8zjnjDEpZTQVGZNSfv%2F%2BXTfa87yrV6%2B%2BefMGwqnHjlLaarUeP34spZydnZVS%2FvI77vHTp09BR2JaEULm5%2BfhMGTTo0ePCCGmaaJQSin%2BZ4wZhmGa5rt371CFUipB%2Bs7OTo9MIYQ4joMZu7OzU6vVGGNgBDwIokECwBYEQa1W08UmKP727Zt%2BmU6nTdPU79TrdczkjY0Nx3Eg2AhhqVQqFouIORixvr4uhMBYHFIM5riuiygRQs6fP1%2BtVnXwQTEc%2FvDhA25BIC5duvTp06ePHz%2BOjY3BFgCwvb3teV4CcwF0ukMgemRkZHh4WK%2FXer0eBAGo2d7ejgB269atQqFQKpUuX76sY7u3t7e%2Fv49ColB3Oh30GNbQ0FC5XNZFeJ63v78PlyBLN8uyrJ8FwznTlhBCCHEkZe7t7emAEEIGBgbS6bQu2vd93%2Ff7%2B%2FsTcxBrptvtSin1mtQrjUdoq9lstlotHepCoWBZli7a933P806ePJmY82jK0NDQ6OgoxphSqidp1ONGowGK0cBisdjpdCLhaDQavdmt2%2B0%2BfPjwwYMHOiSAHGQSj%2BDQaDSEEEjChJB8Pg%2BxAdCgTHsohqdSqdS%2Fa4tYKoAPISSXy%2Blxgi3gkMSVSqU8z7t%2F%2F%2F7BwYHOoJTSxcXFwcFBgJ0nsgdIB1hOnDihlDIMA%2FoVgBEhmUOucN5ut589exbfmpub%2B41iXJZl2bZNKc1ms77vR1jzKKgZY7lcDkoO1MAvlH4U6kRXbNu2LItzbtu2rhgi0nthE9TVJzAXKMasgUvbtvv6%2BjKZTC6X00ulXq%2FHmyY%2BKKX0ff%2BoA4cUg0VBEOgNADIrnU6nUimgCz35f%2Fz4kShRCJHNZu%2FcuXPu3LkeXe4QZbbbbWzy6DE0%2F0KhEGFN5Jl4Befz%2BVqtNj09jfzfy2NCSLPZhECiuHK5zDk3DAN5CrZarVaz2ezBXEKIdrt93Dre3d3F0xCh9%2B%2Ff37t3j1L66tUrvAmKAZujhlToEL9XjJFDdoQ7m5ubm5ub8TFWCAFN7D9Pxzw%2B0%2BhjHo7jep%2FRWRMbV%2Fx94ODg4LiKwQk9DyN9LV7xg4ODkftbW1tAFJ8%2Ffz6u4jgRMsawYUQsgJlwdHQUAYff5eXlsbGxVqu1srKip8WxFAOYjLGVlZXx8XFCyJcvX65du%2Bb7PuIB8IyPj5umGQQB8AYYdPPmzQhC8VRg%2BlwX8bivr%2B%2FMmTOVSqVSqVSr1cjIAVl99uzZarVKKcUcBk6GFztQmeg0Q9qSUu7u7oJceCaTyZimCWHmnPf392N3opS6rtvtdtPp9MzMDEgA3ZBcYRhCTywWi9BmIhTG9LkCJmR8yclkMsBcYAT0RxCqlHJdF1jz9u3bd%2B%2FeFULAWyHnnHNOKQ3DMJPJPH%2F%2BfGpqCrt7Qow7nU4QBJZlgXVSynK5nM1msdONjIxYlmUYBpjV7Xbb7TbAsLy8XKlUlpaWHMdBYCcmJhYWFi5evOg4zsuXLyNO%2Fwq7lNJ1XT0eqVQKKBpnPH2YZYwNDAwYhoFjoeu6r1%2B%2F%2Fvr1q2EYp0%2BfnpycBAcopYBlqVTClvzHXsyllHqf7%2FFKnqA4bkTku0KPXVSPtIockPjJgP7vvvr8Aw%2FiIESUDskYAAAAAElFTkSuQmCC"
+    alt="Visit Portfolio" 
+  />
+</a>
 
----
+</div>
 
 ## About Me
 
-I'm an MCA'27 student at VIT Vellore building toward a career in AI Engineering, with a foundation in Python, SQL, Machine Learning, and software development. My journey has evolved from working with data and predictive models to designing intelligent systems that combine machine learning with modern Generative AI technologies.
+I'm an MCA’27 student at VIT Vellore focused on AI Engineering, with a foundation in programming, Machine Learning, and software development. My journey has evolved from working with data and predictive models to designing intelligent applications that combine Machine Learning with Generative AI. My projects go beyond basic LLM API integrations, incorporating retrieval pipelines, multi-stage workflows, structured output validation, safety guardrails, evaluation, and backend engineering.
 
-I build projects across **LLMs, RAG, agentic workflows, multimodal AI, computer vision, and predictive ML**. My work includes an **HR Policy Assistant** that combines document retrieval with grounded conversational responses, a **Customer Support Agent** for email understanding, knowledge retrieval, response drafting, and follow-up workflows, and **MemoryMind**, a meeting intelligence system that turns conversations into summaries, decisions, action items, and trackable follow-ups. I’m also developing **VisionGuide AI**, a multimodal computer-vision system for environmental understanding and accessibility, alongside ML-based prediction and recommendation systems.
+My projects include **HR Policy RAG Assistant**, focused on document retrieval and grounded responses; **Customer Support Email Agent**, combining knowledge retrieval, response generation, validation, and human-review workflows; **Multi-Agent Research Pipeline**, coordinating web research, content extraction, report generation, and AI-powered critique; and **Vendor Invoice Intelligence Portal**, applying predictive ML to freight-cost estimation and invoice-risk detection.
 
-I’ve earned credentials including **Microsoft Certified: Azure AI Fundamentals** and **Oracle Agentic AI Foundations Associate**, while continuing to strengthen my foundations in algorithms, software engineering, and AI system design. I'm particularly interested in **Generative AI, Agentic AI, multimodal systems, and reliable AI engineering**, and I'm looking to apply these skills to meaningful real-world problems.
+I’ve earned credentials including **Microsoft Certified: Azure AI Fundamentals (AI-901)**, **Oracle Agentic AI Foundations Associate 2026**, **Generative AI Fundamentals (Databricks)**, and **Data Fundamentals (IBM SkillsBuild)**. I'm particularly interested in Generative AI and reliable AI engineering, while continuing to strengthen my foundations in software engineering and AI system design.
 
 
 ## Tech Stack
@@ -36,22 +44,22 @@ I’ve earned credentials including **Microsoft Certified: Azure AI Fundamentals
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 ### Generative AI & LLM Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logo=google&logoColor=white" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Embeddings"/>
-  <img src="https://img.shields.io/badge/Semantic_Search-0891B2?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Semantic Search"/>
-  <img src="https://img.shields.io/badge/Tool_Calling-0F766E?style=for-the-badge&logo=anthropic&logoColor=white" alt="Tool Calling"/>
-  <img src="https://img.shields.io/badge/Guardrails-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Guardrails"/>
-  <img src="https://img.shields.io/badge/LLM_Evaluation-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white" alt="LLM Evaluation"/>
-  <img src="https://img.shields.io/badge/Observability-64748B?style=for-the-badge&logo=langchain&logoColor=white" alt="Observability"/>
+  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge" alt="Embeddings"/>
+  <img src="https://img.shields.io/badge/Semantic_Search-0891B2?style=for-the-badge" alt="Semantic Search"/>
+  <img src="https://img.shields.io/badge/Tool_Calling-0F766E?style=for-the-badge" alt="Tool Calling"/>
+  <img src="https://img.shields.io/badge/Guardrails-16A34A?style=for-the-badge" alt="Guardrails"/>
+  <img src="https://img.shields.io/badge/LLM_Evaluation-2563EB?style=for-the-badge" alt="LLM Evaluation"/>
+  <img src="https://img.shields.io/badge/Observability-64748B?style=for-the-badge" alt="Observability"/>
 </p>
 
 ### Machine Learning & Data Science
@@ -59,20 +67,20 @@ I’ve earned credentials including **Microsoft Certified: Azure AI Fundamentals
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Feature_Engineering-0D9488?style=for-the-badge&logo=databricks&logoColor=white" alt="Feature Engineering"/>
-  <img src="https://img.shields.io/badge/Predictive_Modeling-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Predictive Modeling"/>
-  <img src="https://img.shields.io/badge/Model_Evaluation-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Model Evaluation"/>
+  <img src="https://img.shields.io/badge/Feature_Engineering-0D9488?style=for-the-badge" alt="Feature Engineering"/>
+  <img src="https://img.shields.io/badge/Predictive_Modeling-7C3AED?style=for-the-badge" alt="Predictive Modeling"/>
+  <img src="https://img.shields.io/badge/Model_Evaluation-2563EB?style=for-the-badge" alt="Model Evaluation"/>
 </p>
 
 ### Frameworks & Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 </p>
@@ -80,10 +88,10 @@ I’ve earned credentials including **Microsoft Certified: Azure AI Fundamentals
 ### Core CS
 
 <p>
-  <img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Data Structures and Algorithms"/>
-  <img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Object Oriented Programming"/>
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-64748B?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems"/>
+  <img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge" alt="Data Structures and Algorithms"/>
+  <img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge" alt="Object Oriented Programming"/>
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge" alt="DBMS"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-64748B?style=for-the-badge" alt="Operating Systems"/>
 </p>
 
 ### Infrastructure & Tools
@@ -96,6 +104,7 @@ I’ve earned credentials including **Microsoft Certified: Azure AI Fundamentals
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 <!--
